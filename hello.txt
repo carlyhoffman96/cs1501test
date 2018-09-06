@@ -1,3 +1,4 @@
 Hello world!
-Name:
-Email:
+Name: Carly Hoffman
+Email: cah231@pitt.edu
+
